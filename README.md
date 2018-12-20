@@ -1,6 +1,7 @@
 # Digit-Classifier
 Digit Classifier using MNIST
 
+video link: https://youtu.be/4iqLoeWLevk
 
 This is a program for digit classification using MNIST dataset and keras framework using Tensorflow backend. Lets discuss about the files one by one.
 
@@ -13,3 +14,5 @@ CNN Training.ipynb is also a ipython notebook file where we trained the model us
 CNN.h5 is the trained model which have the training weights and we can directly import that model in the Prediction.ipynb file and the "img.jpg" file is already setup in that notebook, we can open that jpg file in any drawing tool and draw any digit and 'save as' that file. 
 
 After that we can run the prediction function in that notebook and we get the result.
+
+Enjoy Deep Learning!
